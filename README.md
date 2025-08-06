@@ -90,7 +90,7 @@ Next, open the `.env` file and fill in the required API keys and settings. The f
 
 ### 3. Register Users
 
-Create new user accounts through the **Register** page on the dashboard.
+Create new user accounts through the **Register** page on the dashboard. Then it will take you to the login page. Login and then start your working.
 
 ### 4. Start the Application
 
