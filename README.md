@@ -1,4 +1,5 @@
-# 🤖 AI-Powered Automated Email Marketing Tool
+# 🤖 AI-Powered Automated Email Marketing Tool 
+If you face any difficulty in setting up this project. Email dilawarakram13@gmail.com or Whatsapp +923016728444
 
 This project is a full-stack, multi-user platform for running personalized cold email campaigns using AI. It features lead scraping, AI-generated emails, automated sending, open/reply tracking, and advanced analytics—all managed through a modern Streamlit dashboard.
 
