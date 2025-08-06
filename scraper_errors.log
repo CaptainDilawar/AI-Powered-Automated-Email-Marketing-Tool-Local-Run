@@ -1,0 +1,46 @@
+[CAPTCHA] Detected for Platform: instagram, Industry: Restaurant, State: Florida, Dork: site:{site_domain} "{industry}" "{location}" "@gmail.com"
+[CAPTCHA] Detected for Platform: linkedin, Industry: Restaurant, State: Islamabad, Dork: site:{site_domain} "{industry}" "{location}" "@gmail.com"
+[CAPTCHA] Detected for Platform: instagram, Industry: Restaurant, State: Texas, Dork: site:{site_domain} "{industry}" "{location}" "@gmail.com"
+[TIMEOUT] Platform: instagram, Industry: Restaurant, State: Texas, Dork: site:{site_domain} "{industry}" "{location}" "@gmail.com"
+[CAPTCHA] Detected for Platform: instagram, Industry: Restaurant, State: Texas, Dork: site:{site_domain} "{industry}" "{location}" intext:email
+[CAPTCHA] Detected for Platform: instagram, Industry: Restaurant, State: Florida, Dork: site:{site_domain} "{industry}" "{location}" "@gmail.com"
+[TIMEOUT] Platform: instagram, Industry: Restaurant, State: Florida, Dork: site:{site_domain} "{industry}" "{location}" "@gmail.com"
+[CAPTCHA] Detected for Platform: instagram, Industry: Restaurant, State: Florida, Dork: site:{site_domain} "{industry}" "{location}" intext:email
+[CAPTCHA] Detected for Platform: instagram, Industry: Education, State: Texas, Dork: site:{site_domain} "{industry}" "{location}" "@outlook.com"
+[CAPTCHA] Detected for Platform: linkedin, Industry: Restaurant, State: Florida, Dork: site:{site_domain} "{industry}" "{location}" "@gmail.com"
+[CAPTCHA] Detected for Platform: instagram, Industry: Restaurant, State: Florida, Dork: site:{site_domain} "{industry}" "{location}" "@outlook.com"
+[TIMEOUT] Platform: instagram, Industry: Restaurant, State: Florida, Dork: site:{site_domain} "{industry}" "{location}" "@outlook.com"
+[CAPTCHA] Detected for Platform: yelp, Industry: Restaurant, State: California, Dork: site:{site_domain} "{industry}" "{location}" "@gmail.com"
+[PROFILE DESC ERROR] HTTPSConnectionPool(host='www.yelp.com', port=443): Read timed out. (read timeout=8)
+[CAPTCHA] Detected for Platform: linkedin, Industry: Fitness, State: Florida, Dork: site:{site_domain} "{industry}" "{location}" "@gmail.com"
+[CAPTCHA] Detected for Platform: linkedin, Industry: Fitness, State: Florida, Dork: site:{site_domain} "{industry}" "{location}" "@gmail.com"
+[CAPTCHA] Detected for Platform: linkedin, Industry: Fitness, State: Florida, Dork: site:{site_domain} "{industry}" "{location}" "@yahoo.com"
+[CAPTCHA] Detected for Platform: linkedin, Industry: Clinic, State: Florida, Dork: site:{site_domain} "{industry}" "{location}" "@gmail.com"
+[CAPTCHA] Detected for Platform: linkedin, Industry: Law Firm, State: Florida, Dork: site:{site_domain} "{industry}" "{location}" "@gmail.com"
+[TIMEOUT] Platform: linkedin, Industry: Law Firm, State: Florida, Dork: site:{site_domain} "{industry}" "{location}" "@gmail.com"
+[CAPTCHA] Detected for Platform: linkedin, Industry: Law Firm, State: Florida, Dork: site:{site_domain} "{industry}" "{location}" intext:email
+[CAPTCHA] Detected for Platform: linkedin, Industry: Law Firm, State: Florida, Dork: site:{site_domain} "{industry}" "{location}" "@yahoo.com"
+[TIMEOUT] Platform: linkedin, Industry: Law Firm, State: Florida, Dork: site:{site_domain} "{industry}" "{location}" "@yahoo.com"
+[CAPTCHA] Detected for Platform: linkedin, Industry: Law Firm, State: Florida, Dork: site:{site_domain} "{industry}" "{location}" "@outlook.com"
+[CAPTCHA] Detected for Platform: linkedin, Industry: Law Firm, State: Florida, Dork: site:{site_domain} "{industry}" "{location}" "@gmail.com"
+[TIMEOUT] Platform: linkedin, Industry: Law Firm, State: Florida, Dork: site:{site_domain} "{industry}" "{location}" "@gmail.com"
+[CAPTCHA] Detected for Platform: linkedin, Industry: Law Firm, State: Florida, Dork: site:{site_domain} "{industry}" "{location}" intext:email
+[TIMEOUT] Platform: linkedin, Industry: Law Firm, State: Florida, Dork: site:{site_domain} "{industry}" "{location}" intext:email
+[CAPTCHA] Detected for Platform: linkedin, Industry: Law Firm, State: Florida, Dork: site:{site_domain} "{industry}" "{location}" contact
+[CAPTCHA] Detected for Platform: yelp, Industry: E-Commerce, State: Alabama, Dork: site:{site_domain} "{industry}" "{location}" "@gmail.com"
+[TIMEOUT] Platform: yelp, Industry: E-Commerce, State: Alabama, Dork: site:{site_domain} "{industry}" "{location}" "@gmail.com"
+[CAPTCHA] Detected for Platform: yelp, Industry: E-Commerce, State: Alabama, Dork: site:{site_domain} "{industry}" "{location}" intext:email
+[CAPTCHA] Detected for Platform: instagram, Industry: Education, State: New Delhi, Dork: site:{site_domain} "{industry}" "{location}" "@gmail.com"
+[TIMEOUT] Platform: instagram, Industry: Education, State: New Delhi, Dork: site:{site_domain} "{industry}" "{location}" "@gmail.com"
+[CAPTCHA] Detected for Platform: linkedin, Industry: Law Firm, State: Mumbai, Dork: site:{site_domain} "{industry}" "{location}" "@gmail.com"
+[CAPTCHA] Detected for Platform: linkedin, Industry: Fitness, State: Alabama, Dork: site:{site_domain} "{industry}" "{location}" "@gmail.com"
+[CAPTCHA] Detected for Platform: linkedin, Industry: Education, State: Alabama, Dork: site:{site_domain} "{industry}" "{location}" "@gmail.com"
+[CAPTCHA] Detected for Platform: linkedin, Industry: Law Firm, State: Quetta, Dork: site:{site_domain} "{industry}" "{location}" "@gmail.com"
+[TIMEOUT] Platform: linkedin, Industry: Law Firm, State: Quetta, Dork: site:{site_domain} "{industry}" "{location}" inurl:contact
+[TIMEOUT] Platform: linkedin, Industry: Law Firm, State: Quetta, Dork: site:{site_domain} "{industry}" "{location}" intitle:contact
+[CAPTCHA] Detected for Platform: linkedin, Industry: Clinic, State: Florida, Dork: site:{site_domain} "{industry}" "{location}" "@gmail.com"
+[CAPTCHA] Detected for Platform: linkedin, Industry: Clinic, State: Florida, Dork: site:{site_domain} "{industry}" "{location}" intitle:contact
+[CAPTCHA] Detected for Platform: linkedin, Industry: Clinic, State: Florida, Dork: site:{site_domain} "{industry}" "{location}" "@yahoo.com"
+[TIMEOUT] Platform: linkedin, Industry: Clinic, State: Florida, Dork: site:{site_domain} "{industry}" "{location}" "@yahoo.com"
+[CAPTCHA] Detected for Platform: linkedin, Industry: Clinic, State: Florida, Dork: site:{site_domain} "{industry}" "{location}" "@outlook.com"
+[TIMEOUT] Platform: linkedin, Industry: Clinic, State: Florida, Dork: site:{site_domain} "{industry}" "{location}" "@outlook.com"
