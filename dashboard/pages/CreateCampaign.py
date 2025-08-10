@@ -35,12 +35,12 @@ with st.form("create_campaign"):
     service = st.text_input("Service You're Offering", value="Website Development")
     industries = st.multiselect(
         "Select Target Industries",
-        ["Real Estate", "Clinic", "Law Firm", "Restaurant", "E-commerce", "Fitness", "Education"]
+        ["Real Estate", "Clinic", "Law Firm", "Restaurant", "E-commerce", "Fitness", "Education", "Finance", "Travel", "Technology", "Non-profit", "Retail", "Entertainment", "Automotive", "Construction", "Consulting", "Marketing", "Hospitality", "Healthcare", "Manufacturing", "Logistics"]
     )
     locations = st.text_input("Target Locations (comma-separated)", value="California, Texas, Florida")
     platforms = st.multiselect(
         "Platforms to Target",
-        ["instagram", "yelp", "linkedin", "google"]
+        ["instagram", "yelp", "linkedin", "google", "facebook", "twitter", "pinterest", "tiktok", "youtube", "snapchat"]
     )
 
     submitted = st.form_submit_button("📦 Save Campaign")
